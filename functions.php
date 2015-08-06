@@ -9,11 +9,9 @@
  * @package   rohitgilbile
  * @author    Rohit Gilbile <rohitgilbile7@gmail.com>
  * @link      http://phplesson.com
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ************************************
-	HTML Sitemap   in WordPress    *
+HTML Sitemap   in WordPress   
 ************************************/
 
 function sitemap() {
