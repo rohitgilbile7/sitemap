@@ -11,7 +11,7 @@
  * @link      http://phplesson.com
 
 ************************************
-HTML Sitemap   in WordPress   
+*HTML Sitemap   in WordPress   
 ************************************/
 
 function sitemap() {
